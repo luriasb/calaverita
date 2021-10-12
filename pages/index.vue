@@ -139,7 +139,7 @@ export default {
 */
 
 body {
-  background: url('../assets/img/pattern02.png') repeat, 
+  background: url('../assets/img/pattern01.png') repeat, 
   linear-gradient(180deg, rgba(60,3,74,1) , rgba(92,21,61,1) , rgba(120,38,48,1) , rgba(255,122,0,1));
 }
 
